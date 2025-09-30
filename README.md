@@ -2,11 +2,11 @@
 
 DL-Implement a Recurrent Neural Network model for stock price prediction.
 
-**AIM**
+**AIM:**
 
 To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
-**THEORY**
+**THEORY:**
 
 The given problem is to predict the google stock price based on time.
 For this we are provided with a dataset which contains features like Date, Opening Price, Highest Price, Lowest Price, Closing Price, Adjusted Closing Price, Volume.
@@ -18,7 +18,7 @@ Based on the given features, develop a RNN model to predict, the price of stocks
 
 
 
-**DESIGN STEPS**
+**DESIGN STEPS:**
 
 STEP 1: Read the csv file and create the Data frame using pandas.
 
@@ -32,7 +32,7 @@ STEP 5: Follow the same steps to create the Test data. But make sure you combine
 
 STEP 6: Make Predictions and plot the graph with the Actual and Predicted values.
 
-**PROGRAM**
+**PROGRAM:**
 
 **Name:** Kishore M
 
@@ -113,7 +113,7 @@ plt.show()
 
 
 
-**OUTPUT**
+**OUTPUT:**
 
 **True Stock Price, Predicted Stock Price vs time**
 
@@ -125,6 +125,6 @@ plt.show()
 <img width="502" height="62" alt="image" src="https://github.com/user-attachments/assets/f69822f3-eaa8-453d-8d70-23121fe53335" />
 
 
-**RESULT**
+**RESULT:**
 
 Thus the stock price is predicted using Recurrent Neural Networks successfully.
