@@ -120,9 +120,13 @@ plt.show()
 <img width="1034" height="534" alt="image" src="https://github.com/user-attachments/assets/bd19f4ee-0304-49af-8079-8e78600f1580" />
 
 
+
+
 **Mean Square Error:**
 
 <img width="502" height="62" alt="image" src="https://github.com/user-attachments/assets/f69822f3-eaa8-453d-8d70-23121fe53335" />
+
+
 
 
 **RESULT:**
