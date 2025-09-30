@@ -30,9 +30,9 @@ STEP 6:
 
 **PROGRAM**
 
-**Name:**
+**Name:** Kishore M
 
-**Register Number:**
+**Register Number:** 2305002012
 
 
   
